@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<form method="POST">
+    {!! csrf_field() !!}
+    ${1}
+</form>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>form</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.laravel-blade</scope>
+</snippet>

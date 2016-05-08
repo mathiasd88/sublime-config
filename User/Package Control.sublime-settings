@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Bootstrap 3 Snippets",
+		"Colorsublime",
+		"DocBlockr",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint Gutter",
+		"JSX",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PhpNamespace"
+	]
+}
